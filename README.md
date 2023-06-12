@@ -1,1 +1,1 @@
-# Peson Tracking using Faster RCNN
+# Person Tracking using Faster RCNN
